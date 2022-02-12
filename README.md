@@ -1,8 +1,8 @@
 # :wave: Hello, World!
 
-![GitHub last commit](https://img.shields.io/github/last-commit/xanderbylo/hello-world) 
+![GitHub last commit](https://img.shields.io/github/last-commit/xanderbylo/hello-world)
 
-This is my first webpage as part of [The Odin project](https://www.theodinproject.com/). It's a simple website built using HTML to practice using the command line, Git and GitHub.
+This is my first webpage, created as part of [The Odin Project](https://www.theodinproject.com/). It's a simple website built using HTML to practice using the command line, Git and GitHub.
 
 ## :computer: Live link
 
